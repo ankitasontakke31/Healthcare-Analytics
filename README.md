@@ -1,5 +1,5 @@
 # Healthcare-Analytics
-# Healthcare Analytics Dashboard
+
 
 A comprehensive Healthcare Analytics Dashboard built using Power BI, designed to provide actionable insights for hospital management. This project demonstrates end-to-end data handling, from cleaning and preparation to visualization and decision support.
 
@@ -27,5 +27,5 @@ A comprehensive Healthcare Analytics Dashboard built using Power BI, designed to
 
 ---
 
-## Repository Structure
+
 
